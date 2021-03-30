@@ -5,7 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ousamabenyounes" alt="ousamabenyounes" /></a> </p>
 
-- 🔭 I’m currently working on [YellowLabTools Docker Image](https://github.com/ousamabenyounes/docker-yellowlabtools)
+- 🔭 I’m currently working on [YellowLabTools Docker Image](https://github.com/ousamabenyounes/docker-yellowlabtools), 
+- Ill since august 2019, I hope to come back soon to do devops / webperformance with my next clients...
 
 - 🌱 I’m currently learning **AWS Cloud**
 
