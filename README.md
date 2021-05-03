@@ -8,9 +8,7 @@
 - 🔭 I’m currently working on [YellowLabTools Docker Image](https://github.com/ousamabenyounes/docker-yellowlabtools), 
 - Ill since august 2019, I hope to come back soon to do devops / webperformance with my next clients...
 
-- 🌱 I’m currently learning **AWS Cloud**
-
-- 💬 Ask me about **Devops, PHP, JS, Testing (perf, quality, cucumber...)**
+- 💬 Ask me about **Devops, AWS, PHP, JS, Testing (perf, quality, cucumber...)**
 
 - 📫 How to reach me **benyounes.ousama@gmail.com**
 
