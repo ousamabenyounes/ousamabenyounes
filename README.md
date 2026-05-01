@@ -22,5 +22,4 @@ Live dashboard: [studio.oratelecom.net/agent/github](https://studio.oratelecom.n
 | [`JuliusBrussee/caveman`](https://github.com/JuliusBrussee/caveman) | 52k | 14 PRs | ⏳ Review |
 | [`microsoft/vscode`](https://github.com/microsoft/vscode) | 184k | 9 PRs | ⏳ Review |
 
-**📊 Totals** — `58` merged · `182` PRs across `11` repos · `803k` ⭐ reached
 
