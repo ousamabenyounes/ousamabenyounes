@@ -1,7 +1,12 @@
 ### 👋 Hi, I'm Ousama
 
-Building [Ora Studio](https://studio.oratelecom.net) · open-source contributor.
-Live dashboard: **[studio.oratelecom.net/agent/github](https://studio.oratelecom.net/agent/github)**
+Tech & open-source enthusiast focused on performance-first systems.
+Contributor to [YellowLabTools](https://github.com/YellowLabTools/YellowLabTools) (with [@gmetais](https://github.com/gmetais)) — making the web faster, lighter, more sustainable.
+Yesterday bytes, today tokens — same obsession, new substrate.
+Now contributing to [RTK AI](https://github.com/rtk-ai/rtk), [Claude-mem](https://github.com/thedotmack/claude-mem), and [context-mode](https://github.com/mksglu/context-mode): cutting token cost, latency, and context bloat in AI coding agents.
+
+Live dashboard: [studio.oratelecom.net/agent/github](https://studio.oratelecom.net/agent/github)
+
 
 ---
 
@@ -19,4 +24,3 @@ Live dashboard: **[studio.oratelecom.net/agent/github](https://studio.oratelecom
 
 **📊 Totals** — `58` merged · `182` PRs across `11` repos · `803k` ⭐ reached
 
-<sub>Auto-updated · last refresh 2026-05-01 · [full breakdown →](https://studio.oratelecom.net/agent/github)</sub>
