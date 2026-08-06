@@ -10,7 +10,7 @@ Live dashboard: [studio.oratelecom.net/agent/github](https://studio.oratelecom.n
 
 ---
 
-### 🌍 Open-source — **214 merged PRs · 25 repos · 814k ⭐**
+### 🌍 Open-source — **214 merged PRs · 25 repos · in 6 months with Ora Studio**
 
 | Theme | Where I ship |
 |---|---|
