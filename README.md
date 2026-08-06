@@ -10,16 +10,15 @@ Live dashboard: [studio.oratelecom.net/agent/github](https://studio.oratelecom.n
 
 ---
 
-### 📌 Recent Activities (May 2026)
+### 🌍 Open-source — **214 merged PRs · 25 repos · 814k ⭐**
 
-| Project | ⭐ Stars | PRs | Status |
-|---------|---------|-----|--------|
-| [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) | 71k | 38 PRs | 🚀 21 Merged |
-| [`symfony/symfony`](https://github.com/symfony/symfony) | 31k | 28 PRs | 🚀 18 Merged |
-| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 39k | 61 PRs | 🚀 14 Merged |
-| [`mksglu/context-mode`](https://github.com/mksglu/context-mode) | 12k | 4 PRs | 🚀 4 Merged |
-| [`TanStack/query`](https://github.com/TanStack/query) | 49k | 8 PRs | ✅ 1 Merged |
-| [`JuliusBrussee/caveman`](https://github.com/JuliusBrussee/caveman) | 52k | 14 PRs | ⏳ Review |
-| [`microsoft/vscode`](https://github.com/microsoft/vscode) | 184k | 9 PRs | ⏳ Review |
+| Theme | Where I ship |
+|---|---|
+| 🪙 **LLM cost & tokens** | [context-mode](https://github.com/mksglu/context-mode) · [rtk](https://github.com/rtk-ai/rtk) · [ponytail](https://github.com/DietrichGebert/ponytail) · [headroom](https://github.com/headroomlabs-ai/headroom) · [caveman](https://github.com/JuliusBrussee/caveman) · [pxpipe](https://github.com/teamchong/pxpipe) |
+| 🤖 **AI agents & tooling** | [claude-mem](https://github.com/thedotmack/claude-mem) · [obscura](https://github.com/h4ckf0r0day/obscura) · [open-code-review](https://github.com/alibaba/open-code-review) · [openwiki](https://github.com/langchain-ai/openwiki) · [CodeWhale](https://github.com/Hmbown/CodeWhale) |
+| 🧠 **LLM infra & models** | [unsloth](https://github.com/unslothai/unsloth) · [zml](https://github.com/zml/zml) |
+| 🧩 **Web frameworks** | [symfony](https://github.com/symfony/symfony) · [TanStack/query](https://github.com/TanStack/query) · [DoctrineBundle](https://github.com/doctrine/DoctrineBundle) |
+| 🔧 **DevOps & infra** | [frankenphp](https://github.com/php/frankenphp) · [floci](https://github.com/floci-io/floci) · [plakar](https://github.com/PlakarKorp/plakar) |
+| 🛡️ **Security** | [strix](https://github.com/usestrix/strix) |
 
 
