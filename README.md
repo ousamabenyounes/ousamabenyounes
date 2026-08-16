@@ -10,13 +10,13 @@ Live dashboard: [studio.oratelecom.net/agent/github](https://studio.oratelecom.n
 
 ---
 
-### 🌍 Open-source — **265 merged PRs · 36 repos · in 6 months with Ora Studio**
+### 🌍 Open-source — **270 merged PRs · 37 repos · in 6 months with Ora Studio**
 
 | Theme | Where I ship — *(merged PRs)* |
 |---|---|
 | 🪙 **LLM cost & tokens** | [context-mode](https://github.com/mksglu/context-mode) (25) · [rtk](https://github.com/rtk-ai/rtk) (21) · [graphify](https://github.com/Graphify-Labs/graphify) (12) · [headroom](https://github.com/headroomlabs-ai/headroom) (10) · [ponytail](https://github.com/DietrichGebert/ponytail) (8) · [tokenwar](https://github.com/oratelecom/tokenwar) (6) · [pxpipe](https://github.com/teamchong/pxpipe) (5) · [caveman](https://github.com/JuliusBrussee/caveman) (2) · [freellmapi](https://github.com/tashfeenahmed/freellmapi) (1) |
 | 🤖 **AI agents & tooling** | [claude-mem](https://github.com/thedotmack/claude-mem) (24) · [obscura](https://github.com/h4ckf0r0day/obscura) (20) · [CodeWhale](https://github.com/Hmbown/CodeWhale) (4) · [**alibaba**/open-code-review](https://github.com/alibaba/open-code-review) (3) · [**langchain-ai**/openwiki](https://github.com/langchain-ai/openwiki) (3) · [beads](https://github.com/gastownhall/beads) (1) · [deja-vu](https://github.com/vshulcz/deja-vu) (1) |
-| 🧠 **LLM infra & models** | [Soup](https://github.com/MakazhanAlpamys/Soup) (4) · [unsloth](https://github.com/unslothai/unsloth) (3) · [zml](https://github.com/zml/zml) (1) |
-| 🧩 **Web frameworks** | [symfony](https://github.com/symfony/symfony) (73) · [symfony-docs](https://github.com/symfony/symfony-docs) (10) · [**TanStack**/query](https://github.com/TanStack/query) (2) · [VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle) (2) · [rails](https://github.com/rails/rails) (1) · [DoctrineBundle](https://github.com/doctrine/DoctrineBundle) (1) · [KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) (1) · [LiipImagineBundle](https://github.com/liip/LiipImagineBundle) (1) |
+| 🧠 **LLM infra & models** | [Soup](https://github.com/MakazhanAlpamys/Soup) (8) · [unsloth](https://github.com/unslothai/unsloth) (3) · [zml](https://github.com/zml/zml) (1) |
+| 🧩 **Web frameworks** | [symfony](https://github.com/symfony/symfony) (73) · [symfony-docs](https://github.com/symfony/symfony-docs) (10) · [**TanStack**/query](https://github.com/TanStack/query) (2) · [VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle) (2) · [rails](https://github.com/rails/rails) (1) · [DoctrineBundle](https://github.com/doctrine/DoctrineBundle) (1) · [core](https://github.com/api-platform/core) (1) · [KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) (1) · [LiipImagineBundle](https://github.com/liip/LiipImagineBundle) (1) |
 | 🔧 **DevOps & infra** | [floci](https://github.com/floci-io/floci) (8) · [plakar](https://github.com/PlakarKorp/plakar) (5) · [caddy](https://github.com/caddyserver/caddy) (1) · [**php**/frankenphp](https://github.com/php/frankenphp) (1) · [opensre](https://github.com/Tracer-Cloud/opensre) (1) |
 | 🛡️ **Security & auth** | [strix](https://github.com/usestrix/strix) (1) · [hanko](https://github.com/teamhanko/hanko) (1) · [firejail](https://github.com/netblue30/firejail) (1) · [open-kritt](https://github.com/Kritt-ai/open-kritt) (1) |
