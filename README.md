@@ -10,7 +10,7 @@ Live dashboard: [studio.oratelecom.net/agent/github](https://studio.oratelecom.n
 
 ---
 
-### 🌍 Open-source — **310 merged PRs · 38 repos · in 6 months with Ora Studio**
+### 🌍 Open-source — **311 merged PRs · 38 repos · in 6 months with Ora Studio**
 
 | Theme | Where I ship — *(merged PRs)* |
 |---|---|
@@ -19,4 +19,4 @@ Live dashboard: [studio.oratelecom.net/agent/github](https://studio.oratelecom.n
 | 🧠 **LLM infra & models** | [Soup](https://github.com/MakazhanAlpamys/Soup) (12) · [unsloth](https://github.com/unslothai/unsloth) (3) · [zml](https://github.com/zml/zml) (1) |
 | 🧩 **Web frameworks** | [symfony](https://github.com/symfony/symfony) (74) · [symfony-docs](https://github.com/symfony/symfony-docs) (10) · [**TanStack**/query](https://github.com/TanStack/query) (3) · [core](https://github.com/api-platform/core) (2) · [VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle) (2) · [rails](https://github.com/rails/rails) (1) · [DoctrineBundle](https://github.com/doctrine/DoctrineBundle) (1) · [KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) (1) · [LiipImagineBundle](https://github.com/liip/LiipImagineBundle) (1) |
 | 🔧 **DevOps & infra** | [floci](https://github.com/floci-io/floci) (8) · [plakar](https://github.com/PlakarKorp/plakar) (5) · [caddy](https://github.com/caddyserver/caddy) (1) · [**php**/frankenphp](https://github.com/php/frankenphp) (1) · [opensre](https://github.com/Tracer-Cloud/opensre) (1) |
-| 🛡️ **Security & auth** | [open-kritt](https://github.com/Kritt-ai/open-kritt) (3) · [strix](https://github.com/usestrix/strix) (1) · [hanko](https://github.com/teamhanko/hanko) (1) · [firejail](https://github.com/netblue30/firejail) (1) |
+| 🛡️ **Security & auth** | [open-kritt](https://github.com/Kritt-ai/open-kritt) (3) · [firejail](https://github.com/netblue30/firejail) (2) · [strix](https://github.com/usestrix/strix) (1) · [hanko](https://github.com/teamhanko/hanko) (1) |
