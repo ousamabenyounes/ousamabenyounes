@@ -10,11 +10,11 @@ Live dashboard: [studio.oratelecom.net/agent/github](https://studio.oratelecom.n
 
 ---
 
-### 🌍 Open-source — **327 merged PRs · 48 repos · in 6 months with Ora Studio**
+### 🌍 Open-source — **328 merged PRs · 48 repos · in 6 months with Ora Studio**
 
 | Theme | Where I ship — *(merged PRs)* |
 |---|---|
-| 🪙 **LLM cost & tokens** | [context-mode](https://github.com/mksglu/context-mode) (25) · [rtk](https://github.com/rtk-ai/rtk) (24) · [graphify](https://github.com/Graphify-Labs/graphify) (16) · [headroom](https://github.com/headroomlabs-ai/headroom) (10) · [tokenwar](https://github.com/oratelecom/tokenwar) (10) · [ponytail](https://github.com/DietrichGebert/ponytail) (8) · [pxpipe](https://github.com/teamchong/pxpipe) (5) · [caveman](https://github.com/JuliusBrussee/caveman) (3) · [freellmapi](https://github.com/tashfeenahmed/freellmapi) (2) |
+| 🪙 **LLM cost & tokens** | [context-mode](https://github.com/mksglu/context-mode) (25) · [rtk](https://github.com/rtk-ai/rtk) (24) · [graphify](https://github.com/Graphify-Labs/graphify) (16) · [tokenwar](https://github.com/oratelecom/tokenwar) (11) · [headroom](https://github.com/headroomlabs-ai/headroom) (10) · [ponytail](https://github.com/DietrichGebert/ponytail) (8) · [pxpipe](https://github.com/teamchong/pxpipe) (5) · [caveman](https://github.com/JuliusBrussee/caveman) (3) · [freellmapi](https://github.com/tashfeenahmed/freellmapi) (2) |
 | 🤖 **AI agents & tooling** | [claude-mem](https://github.com/thedotmack/claude-mem) (24) · [obscura](https://github.com/h4ckf0r0day/obscura) (22) · [**alibaba**/open-code-review](https://github.com/alibaba/open-code-review) (5) · [CodeWhale](https://github.com/Hmbown/CodeWhale) (4) · [claude-seo](https://github.com/AgriciDaniel/claude-seo) (3) · [**langchain-ai**/openwiki](https://github.com/langchain-ai/openwiki) (3) · [**symfony**/ai](https://github.com/symfony/ai) (3) · [beads](https://github.com/gastownhall/beads) (1) · [php-sdk](https://github.com/modelcontextprotocol/php-sdk) (1) · [deja-vu](https://github.com/vshulcz/deja-vu) (1) |
 | 🧠 **LLM infra & models** | [Soup](https://github.com/MakazhanAlpamys/Soup) (15) · [unsloth](https://github.com/unslothai/unsloth) (3) · [litellm](https://github.com/BerriAI/litellm) (1) · [zml](https://github.com/zml/zml) (1) |
 | 🎙️ **Voice AI & audio** | [whisper.cpp](https://github.com/ggml-org/whisper.cpp) (2) · [speech-to-speech](https://github.com/huggingface/speech-to-speech) (1) |
