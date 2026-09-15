@@ -10,7 +10,7 @@ Live dashboard: [studio.oratelecom.net/agent/github](https://studio.oratelecom.n
 
 ---
 
-### 🌍 Open-source — **563 merged PRs · 62 repos · in 7 months with Ora Studio**
+### 🌍 Open-source — **562 merged PRs · 61 repos · since Jan 2025 with Ora Studio**
 
 | Theme | Where I ship — *(merged PRs)* |
 |---|---|
@@ -20,5 +20,5 @@ Live dashboard: [studio.oratelecom.net/agent/github](https://studio.oratelecom.n
 | 🎙️ **Voice AI & audio** | [jambonz-feature-server](https://github.com/jambonz/jambonz-feature-server) (3) · [whisper.cpp](https://github.com/ggml-org/whisper.cpp) (2) · [speech-to-speech](https://github.com/huggingface/speech-to-speech) (1) |
 | 🧩 **Web frameworks** | [**symfony**/symfony](https://github.com/symfony/symfony) (77) · [**symfony**/symfony-docs](https://github.com/symfony/symfony-docs) (14) · [**api-platform**/core](https://github.com/api-platform/core) (9) · [**TanStack**/query](https://github.com/TanStack/query) (5) · [VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle) (3) · [LiipImagineBundle](https://github.com/liip/LiipImagineBundle) (3) · [**api-platform**/api-platform](https://github.com/api-platform/api-platform) (2) · [**TanStack**/virtual](https://github.com/TanStack/virtual) (2) · [KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) (2) · [rails](https://github.com/rails/rails) (1) · [DoctrineBundle](https://github.com/doctrine/DoctrineBundle) (1) · [KnpMenuBundle](https://github.com/KnpLabs/KnpMenuBundle) (1) · [crawlee-python](https://github.com/apify/crawlee-python) (1) |
 | 🔧 **DevOps & infra** | [floci](https://github.com/floci-io/floci) (10) · [plakar](https://github.com/PlakarKorp/plakar) (7) · [satis](https://github.com/composer/satis) (2) · [caddy](https://github.com/caddyserver/caddy) (1) · [coolify](https://github.com/coollabsio/coolify) (1) · [certmagic](https://github.com/caddyserver/certmagic) (1) · [packagist](https://github.com/composer/packagist) (1) · [moby](https://github.com/moby/moby) (1) · [**php**/frankenphp](https://github.com/php/frankenphp) (1) · [opensre](https://github.com/Tracer-Cloud/opensre) (1) |
-| 🛡️ **Security & auth** | [open-kritt](https://github.com/Kritt-ai/open-kritt) (3) · [firejail](https://github.com/netblue30/firejail) (2) · [hanko](https://github.com/teamhanko/hanko) (2) · [FOSUserBundle](https://github.com/FriendsOfSymfony/FOSUserBundle) (1) · [strix](https://github.com/usestrix/strix) (1) · [CyberChef](https://github.com/gchq/CyberChef) (1) |
+| 🛡️ **Security & auth** | [open-kritt](https://github.com/Kritt-ai/open-kritt) (3) · [firejail](https://github.com/netblue30/firejail) (2) · [hanko](https://github.com/teamhanko/hanko) (2) · [strix](https://github.com/usestrix/strix) (1) · [CyberChef](https://github.com/gchq/CyberChef) (1) |
 | 🚀 **Products & platforms** | [brand-compass](https://github.com/ahmedkhanch/brand-compass) (9) · [sitemosque](https://github.com/wslzdgui-sketch/sitemosque) (2) |
