@@ -5,16 +5,13 @@ Contributor to [YellowLabTools](https://github.com/YellowLabTools/YellowLabTools
 Yesterday bytes, today tokens — same obsession, new substrate.
 Now contributing to [RTK AI](https://github.com/rtk-ai/rtk), [Claude-mem](https://github.com/thedotmack/claude-mem), and [context-mode](https://github.com/mksglu/context-mode): cutting token cost, latency, and context bloat in AI coding agents.
 
-Live dashboard: [studio.oratelecom.net/agent/github](https://studio.oratelecom.net/agent/github)
-
-
 ---
 
 ### 🌍 Open-source — **358 integrated contributions · 57 repos · since Jan 2025 with Ora Studio**
 
 <sub>335 direct merges · 23 proven indirect integrations</sub>
 
-| Theme | Where I ship — *(merged PRs)* |
+| Theme | Where our AI Team ship — *(merged PRs)* |
 |---|---|
 | 🪙 **LLM cost & tokens** | [rtk](https://github.com/rtk-ai/rtk) (23) · [context-mode](https://github.com/mksglu/context-mode) (26) · [graphify](https://github.com/Graphify-Labs/graphify) (15) · [headroom](https://github.com/headroomlabs-ai/headroom) (10) · [ponytail](https://github.com/DietrichGebert/ponytail) (8) · [pxpipe](https://github.com/teamchong/pxpipe) (5) · [caveman](https://github.com/JuliusBrussee/caveman) (3) · [freellmapi](https://github.com/tashfeenahmed/freellmapi) (2) |
 | 🤖 **AI agents & tooling** | [claude-mem](https://github.com/thedotmack/claude-mem) (27) · [obscura](https://github.com/h4ckf0r0day/obscura) (22) · [**langchain-ai**/openwiki](https://github.com/langchain-ai/openwiki) (6) · [**alibaba**/open-code-review](https://github.com/alibaba/open-code-review) (5) · [**symfony**/ai](https://github.com/symfony/ai) (5) · [CodeWhale](https://github.com/Hmbown/CodeWhale) (5) · [**Tencent**/teamai-cli](https://github.com/Tencent/teamai-cli) (2) · [claude-seo](https://github.com/AgriciDaniel/claude-seo) (1) · [zeroshot](https://github.com/the-open-engine/zeroshot) (1) · [beads](https://github.com/gastownhall/beads) (1) · [php-sdk](https://github.com/modelcontextprotocol/php-sdk) (1) · [deja-vu](https://github.com/vshulcz/deja-vu) (1) |
