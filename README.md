@@ -7,7 +7,7 @@ Now contributing to [RTK AI](https://github.com/rtk-ai/rtk), [Claude-mem](https:
 
 ---
 
-### 🌍 Open-source — **358 integrated contributions · 57 repos · since Jan 2025 with Ora Studio**
+### 🌍 Open-source — **358 integrated contributions · 57 repos · since Feb 2026 with Ora Studio**
 
 <sub>335 direct merges · 23 proven indirect integrations</sub>
 
