@@ -28,9 +28,7 @@ Now contributing to [RTK AI](https://github.com/rtk-ai/rtk), [Claude-mem](https:
 
 ### 🤝 Adopted without authorship - our code, shipped upstream
 
-These fixes are in production upstream. The pull request that carries them is a maintainer's own, so
-GitHub credits it to them. They are listed because the work is ours, with links so anyone can compare
-the diffs and the dates.
+These fixes are in production upstream. 
 
 | Project | Our PR | Landed as | Gap | Evidence |
 |---|---|---|---|---|
