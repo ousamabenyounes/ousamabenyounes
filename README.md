@@ -26,11 +26,9 @@ Now contributing to [RTK AI](https://github.com/rtk-ai/rtk), [Claude-mem](https:
 
 ---
 
-### 🤝 Adopted without authorship - our code, shipped upstream
+### 🤝 Adopted without authorship
 
-These fixes are in production upstream. The pull request that carries them is a maintainer's own, so
-GitHub credits it to them. They are listed because the work is ours, with links so anyone can compare
-the diffs and the dates.
+These fixes are in production upstream.
 
 | Project | Our PR | Landed as | Gap | Evidence |
 |---|---|---|---|---|
@@ -38,6 +36,5 @@ the diffs and the dates.
 | [docker/compose](https://github.com/docker/compose/pulls?q=is%3Apr+author%3Aousamabenyounes) | [#13936](https://github.com/docker/compose/pull/13936) | [#14094](https://github.com/docker/compose/pull/14094) | 39 days | the merge commit reads `Supersedes #13936` |
 | [docker/compose](https://github.com/docker/compose/pulls?q=is%3Apr+author%3Aousamabenyounes) | [#14031](https://github.com/docker/compose/pull/14031) | [#14096](https://github.com/docker/compose/pull/14096) | 1 day | closed after the maintainer reported verifying it end to end |
 | [docker/compose](https://github.com/docker/compose/pulls?q=is%3Apr+author%3Aousamabenyounes) | [#14032](https://github.com/docker/compose/pull/14032) | [#14095](https://github.com/docker/compose/pull/14095) | 1 day | the `flags.StringVar` line is character-for-character identical |
-| [unslothai/unsloth](https://github.com/unslothai/unsloth/pulls?q=is%3Apr+author%3Aousamabenyounes) | [#10570](https://github.com/unslothai/unsloth/pull/10570) | [#10683](https://github.com/unslothai/unsloth/pull/10683) | 1 day | same file, same non-causal batch diagnosis |
 
 
