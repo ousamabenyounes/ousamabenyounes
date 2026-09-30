@@ -10,7 +10,7 @@ Now contributing to [RTK AI](https://github.com/rtk-ai/rtk), [Claude-mem](https:
 
 ---
 
-### 🌍 Open-source — **435 contributions by our AI team, 100% autonomous · 59 repos**
+### 🌍 Open-source — **437 contributions by our AI team, 100% autonomous · 60 repos**
 
 | Theme | Where I ship — *(merged PRs)* |
 |---|---|
@@ -20,8 +20,9 @@ Now contributing to [RTK AI](https://github.com/rtk-ai/rtk), [Claude-mem](https:
 | 🎙️ **Voice AI & audio** | [jambonz-feature-server](https://github.com/jambonz/jambonz-feature-server) (3) · [whisper.cpp](https://github.com/ggml-org/whisper.cpp) (2) · [**huggingface**/speech-to-speech](https://github.com/huggingface/speech-to-speech) (2) |
 | 🧩 **Web frameworks** | [**symfony**/symfony](https://github.com/symfony/symfony) (77) · [**api-platform**/core](https://github.com/api-platform/core) (15) · [**symfony**/symfony-docs](https://github.com/symfony/symfony-docs) (14) · [**TanStack**/query](https://github.com/TanStack/query) (5) · [VichUploaderBundle](https://github.com/dustin10/VichUploaderBundle) (4) · [LiipImagineBundle](https://github.com/liip/LiipImagineBundle) (4) · [rails](https://github.com/rails/rails) (2) · [**api-platform**/api-platform](https://github.com/api-platform/api-platform) (2) · [KnpPaginatorBundle](https://github.com/KnpLabs/KnpPaginatorBundle) (2) · [DoctrineBundle](https://github.com/doctrine/DoctrineBundle) (1) · [KnpMenuBundle](https://github.com/KnpLabs/KnpMenuBundle) (1) |
 | 🔧 **DevOps & infra** | [floci](https://github.com/floci-io/floci) (11) · [plakar](https://github.com/PlakarKorp/plakar) (9) · [**php**/frankenphp](https://github.com/php/frankenphp) (2) · [caddy](https://github.com/caddyserver/caddy) (1) · [moby](https://github.com/moby/moby) (1) · [opensre](https://github.com/Tracer-Cloud/opensre) (1) |
+| 📦 **Package management** | [**Composer**/composer](https://github.com/composer/composer) (2) · [Composer/satis](https://github.com/composer/satis) (2) · [Composer/packagist](https://github.com/composer/packagist) (1) |
 | 🛡️ **Security & auth** | [hanko](https://github.com/teamhanko/hanko) (3) · [open-kritt](https://github.com/Kritt-ai/open-kritt) (3) · [firejail](https://github.com/netblue30/firejail) (2) · [strix](https://github.com/usestrix/strix) (2) · [CyberChef](https://github.com/gchq/CyberChef) (1) |
-| 📦 **Other** | [utopia](https://github.com/deeplethe/utopia) (5) · [Codewhale](https://github.com/Hmbown/Codewhale) (7) · [**TanStack**/virtual](https://github.com/TanStack/virtual) (2) · [satis](https://github.com/composer/satis) (2) · [nvm](https://github.com/nvm-sh/nvm) (1) · [coolify](https://github.com/coollabsio/coolify) (1) · [gpt-researcher](https://github.com/assafelovic/gpt-researcher) (1) · [certmagic](https://github.com/caddyserver/certmagic) (1) · [packagist](https://github.com/composer/packagist) (1) · [headlong](https://github.com/laude-institute/headlong) (1) · [crawlee-python](https://github.com/apify/crawlee-python) (1) |
+| 📦 **Other** | [utopia](https://github.com/deeplethe/utopia) (5) · [Codewhale](https://github.com/Hmbown/Codewhale) (7) · [**TanStack**/virtual](https://github.com/TanStack/virtual) (2) · [nvm](https://github.com/nvm-sh/nvm) (1) · [coolify](https://github.com/coollabsio/coolify) (1) · [gpt-researcher](https://github.com/assafelovic/gpt-researcher) (1) · [certmagic](https://github.com/caddyserver/certmagic) (1) · [headlong](https://github.com/laude-institute/headlong) (1) · [crawlee-python](https://github.com/apify/crawlee-python) (1) |
 
 
 ---
