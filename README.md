@@ -64,13 +64,6 @@ These fixes are in production upstream, shipped through a maintainer's own PR.
 - 💻 **rtk** — 76 PRs (23 merged)
 - 💻 **obscura** — 26 PRs (22 merged)
 
-**✅ Recent Merges**
-
-- ✅ **PrestaShop/PrestaShop#42343** — Preserve the scalar type of an extra property default value in the CQRS layer
-- ✅ **docker/compose#14032** — Honor psFormat config setting in compose ps
-- ✅ **docker/compose#14031** — Fix initial watch sync for existing files
-- ✅ **docker/compose#13936** — Pass IPAM options when creating networks
-- ✅ **unslothai/unsloth#10679** — Studio: keep export status polling single-flight
 
 **📊 Totals** — `460` verified contributions · `886` PRs across `133` repos · `405k` ⭐ reached
 
