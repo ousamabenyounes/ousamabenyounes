@@ -42,29 +42,4 @@ These fixes are in production upstream, shipped through a maintainer's own PR.
 | [`docker/compose`](https://github.com/docker/compose) | [#14032](https://github.com/docker/compose/pull/14032) | [#14095](https://github.com/docker/compose/pull/14095) | [evidence](https://github.com/docker/compose/pull/14095) |
 | [`PrestaShop/PrestaShop`](https://github.com/PrestaShop/PrestaShop) | [#42343](https://github.com/PrestaShop/PrestaShop/pull/42343) | [#42538](https://github.com/PrestaShop/PrestaShop/pull/42538) | [evidence](https://github.com/PrestaShop/PrestaShop/pull/42538) |
 
----
 
-### 📌 Recent Activities (October 2026)
-
-| Project | ⭐ Stars | PRs | Status |
-|---------|---------|-----|--------|
-| [`symfony/symfony`](https://github.com/symfony/symfony) | 31k | 106 PRs | 🚀 77 Merged |
-| [`thedotmack/claude-mem`](https://github.com/thedotmack/claude-mem) | 100k | 55 PRs | 🚀 32 Merged |
-| [`mksglu/context-mode`](https://github.com/mksglu/context-mode) | 28k | 37 PRs | 🚀 26 Merged |
-| [`rtk-ai/rtk`](https://github.com/rtk-ai/rtk) | 83k | 76 PRs | 🚀 23 Merged |
-| [`h4ckf0r0day/obscura`](https://github.com/h4ckf0r0day/obscura) | 29k | 26 PRs | 🚀 22 Merged |
-| [`MakazhanAlpamys/Soup`](https://github.com/MakazhanAlpamys/Soup) | 9k | 17 PRs | 🚀 16 Merged |
-| [`Graphify-Labs/graphify`](https://github.com/Graphify-Labs/graphify) | 126k | 20 PRs | 🚀 15 Merged |
-
-**🚀 Highlights**
-
-- 💻 **symfony** — 106 PRs (77 merged)
-- 💻 **claude-mem** — 55 PRs (32 merged)
-- 💻 **context-mode** — 37 PRs (26 merged)
-- 💻 **rtk** — 76 PRs (23 merged)
-- 💻 **obscura** — 26 PRs (22 merged)
-
-
-**📊 Totals** — `460` verified contributions · `886` PRs across `133` repos · `405k` ⭐ reached
-
-<sub>Auto-updated · last refresh 2026-10-13 · [full breakdown →](https://studio.oratelecom.net/agent/github)</sub>
