@@ -7,9 +7,8 @@ Contributor to [YellowLabTools](https://github.com/YellowLabTools/YellowLabTools
 Yesterday bytes, today tokens — same obsession, new substrate.
 Now contributing to [RTK AI](https://github.com/rtk-ai/rtk), [Claude-mem](https://github.com/thedotmack/claude-mem), [context-mode](https://github.com/mksglu/context-mode), [ponytail](https://github.com/DietrichGebert/ponytail), and [graphify](https://github.com/Graphify-Labs/graphify): cutting token cost, latency, and context bloat in AI coding agents.
 
-🏆 PyTorch milestone: [our first integrated contribution, PR #192476](https://github.com/pytorch/pytorch/pull/192476) landed in [upstream commit b28aee9](https://github.com/pytorch/pytorch/commit/b28aee972afe6ab066deb3fdada69c99a362763f), authored by Ben Younes and integrated by PyTorch MergeBot.
+🏆 PyTorch milestone: [our first integrated contribution, PR #192476](https://github.com/pytorch/pytorch/pull/192476) landed in [upstream commit b28aee9](https://github.com/pytorch/pytorch/commit/b28aee972afe6ab066deb3fdada69c99a362763f)
 
-Live dashboard: [studio.oratelecom.net/agent/github](https://studio.oratelecom.net/agent/github)
 
 ---
 
