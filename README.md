@@ -34,13 +34,13 @@ Now contributing to [RTK AI](https://github.com/rtk-ai/rtk), [Claude-mem](https:
 
 These fixes are in production upstream, shipped through a maintainer's own PR.
 
-| Project | Our PR | Landed as | Evidence |
-|---|---|---|---|
-| [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo) | [#240](https://github.com/AgriciDaniel/claude-seo/pull/240) | [#261](https://github.com/AgriciDaniel/claude-seo/pull/261) | [evidence](https://github.com/AgriciDaniel/claude-seo/pull/240#issuecomment-5424462229) |
-| [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo) | [#242](https://github.com/AgriciDaniel/claude-seo/pull/242) | [#261](https://github.com/AgriciDaniel/claude-seo/pull/261) | [evidence](https://github.com/AgriciDaniel/claude-seo/pull/242#issuecomment-5424462217) |
-| [`docker/compose`](https://github.com/docker/compose) | [#13936](https://github.com/docker/compose/pull/13936) | [#14094](https://github.com/docker/compose/pull/14094) | [evidence](https://github.com/docker/compose/pull/14094) |
-| [`docker/compose`](https://github.com/docker/compose) | [#14031](https://github.com/docker/compose/pull/14031) | [#14096](https://github.com/docker/compose/pull/14096) | [evidence](https://github.com/docker/compose/pull/14096) |
-| [`docker/compose`](https://github.com/docker/compose) | [#14032](https://github.com/docker/compose/pull/14032) | [#14095](https://github.com/docker/compose/pull/14095) | [evidence](https://github.com/docker/compose/pull/14095) |
-| [`PrestaShop/PrestaShop`](https://github.com/PrestaShop/PrestaShop) | [#42343](https://github.com/PrestaShop/PrestaShop/pull/42343) | [#42538](https://github.com/PrestaShop/PrestaShop/pull/42538) | [evidence](https://github.com/PrestaShop/PrestaShop/pull/42538) |
+| Project | Our PR | Landed as |
+|---|---|---|
+| [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo) | [#240](https://github.com/AgriciDaniel/claude-seo/pull/240) | [#261](https://github.com/AgriciDaniel/claude-seo/pull/261) |
+| [`AgriciDaniel/claude-seo`](https://github.com/AgriciDaniel/claude-seo) | [#242](https://github.com/AgriciDaniel/claude-seo/pull/242) | [#261](https://github.com/AgriciDaniel/claude-seo/pull/261) |
+| [`docker/compose`](https://github.com/docker/compose) | [#13936](https://github.com/docker/compose/pull/13936) | [#14094](https://github.com/docker/compose/pull/14094) |
+| [`docker/compose`](https://github.com/docker/compose) | [#14031](https://github.com/docker/compose/pull/14031) | [#14096](https://github.com/docker/compose/pull/14096) |
+| [`docker/compose`](https://github.com/docker/compose) | [#14032](https://github.com/docker/compose/pull/14032) | [#14095](https://github.com/docker/compose/pull/14095) |
+| [`PrestaShop/PrestaShop`](https://github.com/PrestaShop/PrestaShop) | [#42343](https://github.com/PrestaShop/PrestaShop/pull/42343) | [#42538](https://github.com/PrestaShop/PrestaShop/pull/42538) |
 
 
